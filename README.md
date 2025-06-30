@@ -130,6 +130,7 @@ yarn allure serve
 - Todos os testes focam em validação de interface (UI).
 - Decidi fazer o uso nativo do cypress de comandos customizados para encapsular steps ou comportamentos repetitivos
 - Lembrando que existem várias maneiras de realizar esse desafio, por exemplo usando Page Objects, ou outras ferramentas como java com Selenium, isso depende da estrutura e padrão de projeto de cada empresa.
+- Preferi deixar a funcionalidade de Checkout de fora pois tinha que fazer automação do Login e quebrar o Captcha não é algo muito simples e nem rápido de fazer de acordo com minhas experiências. Já segue como desafio para meus estudos próximos.
 
 ---
 
