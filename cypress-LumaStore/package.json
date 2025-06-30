@@ -1,0 +1,14 @@
+{
+  "name": "cypress-LumaStore",
+  "version": "1.0.0",
+  "description": "Desafio de Testes da Meta Luma Store",
+  "main": "index.js",
+  "author": "Renata Lobato",
+  "license": "MIT",
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "@shelex/cypress-allure-plugin": "^2.41.2",
+    "allure-commandline": "^2.34.1",
+    "cypress": "^14.5.0"
+  }
+}
